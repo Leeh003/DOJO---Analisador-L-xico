@@ -10,7 +10,7 @@
 >> Projeto desenvolvido em Java
 
 > #### Quem desenvolveu:
->> #### Johnny Messias Paulino (Eu)
+>> #### Johnny Messias Paulino
 >> #### Letícia Ramos
 >> #### Larissa Dias Souza
 >> #### Sabrina Jesus
