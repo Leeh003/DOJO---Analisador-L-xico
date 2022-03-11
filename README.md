@@ -1,4 +1,4 @@
-# DOJO Analisador-Léxico
+# DOJO Analisador Lexico
 # Analisador Léxico - Parser de JavaScript
 
 > #### Para que serve?
